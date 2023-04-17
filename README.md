@@ -1,7 +1,7 @@
 # SpringSecurity-CRUD-DEMO
 This project will walk through Spring Boot Security REST + JPA + Hibernate + MySQL CRUD example, and  test the Rest APIs using postman.
 
-# Software Used
+### Software Used
 Find the software used in the example.
 1. Java 8
 2. Spring Boot 1.5.3.RELEASE
@@ -9,7 +9,7 @@ Find the software used in the example.
 4. MySQL 5.5
 5. Eclipse Mars
 
-# REST API
+### REST API
 1. Create :
 HTTP Method: POST, URL: /user/article
 
@@ -24,7 +24,7 @@ HTTP Method: PUT, URL: /user/article
 4. Delete :
 HTTP Method: DELETE, URL: /user/article/{id}
 
-# Run Application
+### Run Application
 1. You can clone it from github by running following command
 ```
   $ git clone https://github.com/ZhiqiangLi2022/SpringSecurity-CRUD-DEMO.git
@@ -55,7 +55,7 @@ logging.level.org.hibernate.type.descriptor.sql.BasicBinder=TRACE
 ```
 6. Right click on Application.java file and run as Java Application
 
-## Once Sprint Boot Application will be started successfully then we can call following Endpoints by using POSTMAN
+### Once Sprint Boot Application will be started successfully then we can call following Endpoints by using POSTMAN
 1.To get Article by Id with GET Request
 ```http://localhost:8080/user/article/{id}```
 2.To get all Articles
