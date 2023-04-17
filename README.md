@@ -76,3 +76,6 @@ http://localhost:8080/user/article/{id}
 ```
 http://localhost:8080/user/article/{id}
 ```
+
+### current issue:
+![Image text](https://github.com/ZhiqiangLi2022/ImageCenter/blob/05be534fce15cfc162da358cdbc2e57a329b7f93/spring_security_demo_errors.png)
