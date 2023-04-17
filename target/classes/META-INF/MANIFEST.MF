@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: ZhiqiangLi
+Build-Jdk: 17.0.6
+Implementation-Title: spring-boot-security-jpa-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.poc
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-se
+ curity-jpa-demo/
+Created-By: Maven Integration for Eclipse
+
