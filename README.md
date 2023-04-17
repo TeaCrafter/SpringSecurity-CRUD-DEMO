@@ -57,12 +57,22 @@ logging.level.org.hibernate.type.descriptor.sql.BasicBinder=TRACE
 
 ### Once Sprint Boot Application will be started successfully then we can call following Endpoints by using POSTMAN
 1.To get Article by Id with GET Request
-```http://localhost:8080/user/article/{id}```
+```
+http://localhost:8080/user/article/{id}
+```
 2.To get all Articles
-```http://localhost:8080/user/articles```
+```
+http://localhost:8080/user/articles
+```
 3.To add Article
-```http://localhost:8080/user/article```
+```
+http://localhost:8080/user/article
+```
 4.To update Article
-```http://localhost:8080/user/article/{id}```
+```
+http://localhost:8080/user/article/{id}
+```
 5.To delete Article
-```http://localhost:8080/user/article/{id}```
+```
+http://localhost:8080/user/article/{id}
+```
